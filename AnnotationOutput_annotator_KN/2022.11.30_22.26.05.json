@@ -1,0 +1,247 @@
+﻿{
+  "ExcludeList": [
+    "Building_1_02_A_13",
+    "Building_2_01_C_19",
+    "A_6_ground_2"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "A_building_17"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "A_building_19"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "A_building_21"
+      ],
+      "Anotations": [
+        "Across",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "Building_6_01_A2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_C2",
+        "A_building_17"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_C2",
+        "object_vending_machine29"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "Building_1_02_A3"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "Building_6_01_A2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "A_building_19"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "A_building_21"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "099_Aya_L15_59"
+      ],
+      "Anotations": [
+        "Outside"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "Mamachari_83"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "Mamachari_82"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "Building_2_01_C2"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_17",
+        "object_vending_machine27"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_19",
+        "A_building_21"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_19",
+        "Building_6_01_A2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_19",
+        "A_building_17"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_19",
+        "Building_1_02_A3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_19",
+        "object_vending_machine27"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "A_building_21"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "A_building_19"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "A_building_17"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "Building_1_02_A3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+﻿{
+  "ExcludeList": [
+    "043_Ken_L13_96",
+    "075_Yui_L16_99",
+    "A_building_7_4",
+    "building_034a2__1_3",
+    "building_021a22"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "A_building_7_12"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "building_021a9"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "building_005a17"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "Building_2_01_B_17"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "building_005a17"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "A_building_7_12"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "Building_2_01_B_17"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "building_021a9"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a9",
+        "Building_2_01_B_17"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a9",
+        "building_005a17"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L19_90",
+        "031_Toru_L15_93"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "031_Toru_L15_93",
+        "089_Ren_L19_90"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Object based)"
+      ]
+    }
+  ]
+}

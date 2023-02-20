@@ -1,0 +1,312 @@
+﻿{
+  "ExcludeList": [
+    "building_002a2",
+    "tricorn_A64",
+    "tricorn_A172",
+    "tricorn_A173",
+    "tricorn_A174",
+    "tricorn_A175",
+    "yellow_black_rod_40"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_7_19",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "Building_6_02_C6"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C6",
+        "A_building_7_19"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C6",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C6",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C6",
+        "A_building_22"
+      ],
+      "Anotations": [
+        "Across",
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C6",
+        "Building_6_02_C2"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "A_building_7_19"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "Building_6_02_C2"
+      ],
+      "Anotations": [
+        "Across",
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "089_Ren_L12_39"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "Building_6_02_C6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "A_building_22"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "001_Rika_L9_35"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "Building_6_02_C6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "Building_6_02_C2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "001_Rika_L9_35"
+      ],
+      "Anotations": [
+        "Across",
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "089_Ren_L12_39"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C6",
+        "001_Rika_L9_35"
+      ],
+      "Anotations": [
+        "Outside"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C6",
+        "089_Ren_L12_39"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Across",
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "A_building_22"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "Building_6_02_C6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "001_Rika_L9_35"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "089_Ren_L12_39"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L12_39",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Object based)",
+        "Near"
+      ]
+    }
+  ]
+}

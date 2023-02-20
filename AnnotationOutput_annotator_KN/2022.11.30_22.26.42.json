@@ -1,0 +1,395 @@
+﻿{
+  "ExcludeList": [],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "Building_6_01_A3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "Mamachari_87"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "Mamachari_84"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "Mamachari_186"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "Mamachari_184"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "017_Kana_L12_36"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "pole_1_12"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "Building_1_02_A4"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "089_Ren_L17_50"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "Mamachari_87"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "Mamachari_84"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "Mamachari_186"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "Mamachari_184"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "017_Kana_L12_36"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L17_50",
+        "pole_1_13"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L17_50",
+        "Mamachari_87"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_M_39",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "075_Yui_L15_42",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Behind (Object based)",
+        "Near",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "075_Yui_L15_42",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "075_Yui_L15_42",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Behind (Object based)",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_M_39",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_M_39",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "Building_6_01_A3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Behind (Object based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "Mamachari_186"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "Mamachari_84"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "Mamachari_184"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "017_Kana_L12_36"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "089_Ren_L17_50"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "pole_1_13"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    }
+  ]
+}

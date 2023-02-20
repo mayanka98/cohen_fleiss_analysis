@@ -1,0 +1,332 @@
+﻿{
+  "ExcludeList": [
+    "leather_bag_syun3_28",
+    "SM_FLTree_Hero_1_dodai17",
+    "car_5",
+    "bike5"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "building_B_17_1",
+        "Building_6_01_A3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "SM_FLTree_Hero_1_dodai12_21"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "063_Syun_L12_33"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "bike5"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "099_Aya_L14_27"
+      ],
+      "Anotations": [
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "streetright_D2_10"
+      ],
+      "Anotations": [
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "streetright_D2_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "099_Aya_L14_27"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "streetright_D2_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "SM_FLTree_Hero_1_dodai12_21"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "pole_1_8"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "pole_1_7"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "pole_1_6"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "pole_1_5"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "063_Syun_L12_33"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "pole_1_8"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "pole_1_7"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "pole_1_6"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "pole_1_5"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "pole_1_6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "pole_1_5"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "streetright_D2_10",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "streetright_D2_10",
+        "099_Aya_L14_27"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "streetright_D2_10",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "streetright_D2_10",
+        "pole_1_5"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "streetright_D2_10",
+        "pole_1_6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "063_Syun_L12_33",
+        "pole_1_8"
+      ],
+      "Anotations": [
+        "Behind (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "063_Syun_L12_33",
+        "pole_1_7"
+      ],
+      "Anotations": [
+        "Left (Camera based)"
+      ]
+    }
+  ]
+}

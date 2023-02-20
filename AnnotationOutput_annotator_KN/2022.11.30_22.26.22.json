@@ -1,0 +1,131 @@
+﻿{
+  "ExcludeList": [
+    "A_building_9_5",
+    "Building_6_02_C3",
+    "Building_6_02_C4",
+    "A_building_9_4",
+    "building_B_12_4",
+    "SM_FLTree_Hero_1_dodai10",
+    "SK_Hatchback10"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_13",
+        "Building_6_02_C_29"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "A_building_7_11"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "063_Syun_L11_15"
+      ],
+      "Anotations": [
+        "Along"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "utilitypole_A_6"
+      ],
+      "Anotations": [
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C_29",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Along",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C_29",
+        "utilitypole_A_6"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "A_building_9_04"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_9_04",
+        "A_building_7_11"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C_29",
+        "063_Syun_L11_15"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "SK_Hatchback20_22"
+      ],
+      "Anotations": [
+        "Outside"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "043_Ken_L17_5"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_9_04",
+        "043_Ken_L17_5"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    }
+  ]
+}
