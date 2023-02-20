@@ -1,0 +1,495 @@
+﻿{
+  "ExcludeList": [
+    "Building_6_02_C_29",
+    "SM_FLTree_Hero_1_dodai29"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_13",
+        "A_building_7_11"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "utilitypole_A_6"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "SK_Hatchback20_22"
+      ],
+      "Anotations": [
+        "Below",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "031_Toru_L13_24"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near",
+        "Outside"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "043_Ken_L17_5"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "leather_bag_ken3_34"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "099_Aya_L13_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "Building_6_02_C3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "Building_6_02_C4"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "063_Syun_L11_15"
+      ],
+      "Anotations": [
+        "Along",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "SM_FLTree_Hero_1_dodai10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "Building_6_02_C4"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "SM_FLTree_Hero_1_dodai10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "099_Aya_L13_2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "063_Syun_L11_15"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "SK_Hatchback20_22"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "utilitypole_A_6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "031_Toru_L13_24"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "043_Ken_L17_5"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C3",
+        "leather_bag_ken3_34"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "SM_FLTree_Hero_1_dodai10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "Building_6_02_C3"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "099_Aya_L13_2"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "063_Syun_L11_15"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "SK_Hatchback20_22"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "utilitypole_A_6"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "031_Toru_L13_24"
+      ],
+      "Anotations": [
+        "Across",
+        "Outside",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "A_building_7_11"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "043_Ken_L17_5"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C4",
+        "leather_bag_ken3_34"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "Building_6_02_C4"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "SM_FLTree_Hero_1_dodai10"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "099_Aya_L13_2"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "utilitypole_A_6"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "063_Syun_L11_15"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "SK_Hatchback20_22"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "031_Toru_L13_24"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "043_Ken_L17_5"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_11",
+        "leather_bag_ken3_34"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_6",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_6",
+        "099_Aya_L13_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_6",
+        "SK_Hatchback20_22"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_6",
+        "031_Toru_L13_24"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_6",
+        "043_Ken_L17_5"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_6",
+        "SM_FLTree_Hero_1_dodai10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "099_Aya_L13_2",
+        "utilitypole_A_6"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    }
+  ]
+}

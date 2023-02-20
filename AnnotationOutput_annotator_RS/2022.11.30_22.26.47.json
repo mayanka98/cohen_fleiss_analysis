@@ -1,0 +1,215 @@
+﻿{
+  "ExcludeList": [
+    "casual_bag_ren_Bag_ren3_2",
+    "A_6_ground_2",
+    "A_building_17",
+    "A_building_19",
+    "A_building_21",
+    "pole_1_13",
+    "object_vending_machine27",
+    "Mamachari_82",
+    "Mamachari_83",
+    "Mamachari_87",
+    "tricorn_A110",
+    "tricorn_A111",
+    "tricorn_A161",
+    "tricorn_A162"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "Building_1_02_A3"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "089_Ren_L17_50"
+      ],
+      "Anotations": [
+        "Along",
+        "Behind (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A4",
+        "Building_6_01_A2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "Building_1_02_A4"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "object_vending_machine30"
+      ],
+      "Anotations": [
+        "Along",
+        "Behind (Object based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "017_Kana_L13_53"
+      ],
+      "Anotations": [
+        "Along",
+        "Behind (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "089_Ren_L18_56"
+      ],
+      "Anotations": [
+        "Along",
+        "Behind (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "Building_6_01_A2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A3",
+        "tricorn_A160"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "Building_1_02_A4"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "Building_1_02_A3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "089_Ren_L17_50"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "tricorn_A112"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A2",
+        "tricorn_A160"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "object_vending_machine30",
+        "017_Kana_L13_53"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "object_vending_machine30",
+        "089_Ren_L18_56"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "tricorn_A112",
+        "tricorn_A160"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "tricorn_A160",
+        "Building_6_01_A2"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "tricorn_A160",
+        "tricorn_A112"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    }
+  ]
+}

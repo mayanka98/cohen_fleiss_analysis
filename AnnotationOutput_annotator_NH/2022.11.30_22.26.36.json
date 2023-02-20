@@ -1,0 +1,66 @@
+﻿{
+  "ExcludeList": [
+    "Building_2_01_C_19"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "building_007a10",
+        "063_Syun_L14_111"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Outside",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_007a10",
+        "001_Rika_L16_105"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_007a10",
+        "building_021a24"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a24",
+        "001_Rika_L16_105"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a24",
+        "063_Syun_L14_111"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a24",
+        "building_007a10"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,340 @@
+﻿{
+  "ExcludeList": [
+    "pole_1_9",
+    "pole_1_12",
+    "Mamachari_186"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_13",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Outside"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "063_Syun_L12_33"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "017_Kana_L12_36"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_01_A3",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "Building_6_01_A3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "A_building_13"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "063_Syun_L12_33"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "017_Kana_L12_36"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_17_1",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Mamachari_84",
+        "Mamachari_184"
+      ],
+      "Anotations": [
+        "Near",
+        "Next to",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Mamachari_84",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Left (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Mamachari_84",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Front (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_11",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_11",
+        "Mamachari_84"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_11",
+        "Mamachari_184"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_11",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_11",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_M_39",
+        "075_Yui_L15_42"
+      ],
+      "Anotations": [
+        "Left (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_M_39",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_M_39",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "075_Yui_L15_42",
+        "043_Ken_M_39"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "075_Yui_L15_42",
+        "pole_1_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "075_Yui_L15_42",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Mamachari_184",
+        "Mamachari_84"
+      ],
+      "Anotations": [
+        "Left (Object based)",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "Mamachari_184",
+        "pole_1_11"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    }
+  ]
+}

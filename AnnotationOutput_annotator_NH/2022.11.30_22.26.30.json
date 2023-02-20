@@ -1,0 +1,234 @@
+﻿{
+  "ExcludeList": [
+    "c2_c2_150",
+    "c2_c2_ground_154",
+    "Building_6_02_C7",
+    "object_vending_machine47_129",
+    "object_vending_machine48"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_12_",
+        "building_B_10_2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "001_Rika_L11_23"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a3",
+        "building_021a23"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a3",
+        "utilitypole_B_11"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a3",
+        "089_Ren_L14_26"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a3",
+        "building_007a7"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_10_2",
+        "car_21"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_10_2",
+        "building_007a7"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_10_2",
+        "001_Rika_L11_23"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_10_2",
+        "A_building_12_"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_10_2",
+        "building_021a23"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_007a7",
+        "car_21"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_007a7",
+        "building_B_10_2"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_007a7",
+        "001_Rika_L11_23"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_007a7",
+        "building_005a3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a23",
+        "building_005a3"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a23",
+        "building_B_10_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a23",
+        "001_Rika_L11_23"
+      ],
+      "Anotations": [
+        "Across",
+        "Front (Object based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_11",
+        "089_Ren_L14_26"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_11",
+        "casual_bag_ren_Bag_ren5_8"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "car_21",
+        "building_007a7"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "car_21",
+        "building_B_10_2"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    }
+  ]
+}

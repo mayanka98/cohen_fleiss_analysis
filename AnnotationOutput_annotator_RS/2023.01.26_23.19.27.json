@@ -1,0 +1,151 @@
+﻿{
+  "ExcludeList": [],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_1_02_A2",
+        "pole_1_29"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A2",
+        "pole_1_30"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A2",
+        "pole_1_31"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A2",
+        "pole_1_32"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A2",
+        "pole_1_33"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_1_02_A2",
+        "pole_1_35"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_29",
+        "pole_1_30"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_30",
+        "pole_1_31"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_30",
+        "pole_1_29"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_31",
+        "pole_1_30"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_31",
+        "pole_1_32"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_32",
+        "pole_1_33"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_32",
+        "pole_1_31"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "pole_1_33",
+        "pole_1_32"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    }
+  ]
+}

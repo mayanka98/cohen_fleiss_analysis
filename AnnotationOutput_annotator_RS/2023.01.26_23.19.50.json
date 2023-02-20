@@ -1,0 +1,15 @@
+﻿{
+  "ExcludeList": [],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_4_01_5",
+        "SM_FLTree_Hero_1_dodai_2"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    }
+  ]
+}

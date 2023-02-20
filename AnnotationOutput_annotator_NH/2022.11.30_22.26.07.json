@@ -1,0 +1,634 @@
+﻿{
+  "ExcludeList": [
+    "063_Syun_L_12",
+    "seven_seven_window_flame_396",
+    "seven_ground_486",
+    "seven_Garage1_492",
+    "starbucks_starbucks1_131",
+    "starbucks_starbucks2_133",
+    "starbucks_Ground_135",
+    "Building_6_02_C4"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_1",
+        "building_B2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "utilitypole_A_2"
+      ],
+      "Anotations": [
+        "Behind (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "017_Kana_L2_2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "043_Ken_L2_5"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "063_Syun_L5_89"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "Mamachari_20"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_3_",
+        "A_building_4_"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_3_",
+        "utilitypole_A_2"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_3_",
+        "utilitypole_B_4"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_3_",
+        "building_B2"
+      ],
+      "Anotations": [
+        "Across",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "043_Ken_L4_42"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "utilitypole_A_3"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "075_Yui_L_10"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "starbucks_starbucks3"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "A_planter_A_planter32"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near",
+        "Next to",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "A_planter_A_planter20"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "tricorn_A103"
+      ],
+      "Anotations": [
+        "Across",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_4_",
+        "tricorn_A186"
+      ],
+      "Anotations": [
+        "Across",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair_141",
+        "starbucks_starbucks3"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair_141",
+        "starbucks_furniture_A_Chair2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair_141",
+        "starbucks_furniture_A_table2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Front (Object based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair_141",
+        "tricorn_A186"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair_141",
+        "building_B2"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "starbucks_starbucks3"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "A_planter_A_planter20"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "tricorn_A103"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "tricorn_A186"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "starbucks_furniture_A_Chair_141"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "starbucks_furniture_A_table2"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Front (Object based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "A_building_4_"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_Chair2",
+        "A_planter_A_planter32"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "starbucks_furniture_A_Chair_141"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Front (Object based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "starbucks_furniture_A_Chair2"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Front (Object based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "starbucks_starbucks3"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "tricorn_A186"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "tricorn_A103"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "A_planter_A_planter20"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "075_Yui_L_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "A_building_4_"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_furniture_A_table2",
+        "building_B2"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B2",
+        "starbucks_starbucks3"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B2",
+        "utilitypole_B_4"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B2",
+        "A_building_3_"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "building_B2"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "A_building_4_"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "075_Yui_L_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "utilitypole_A_3"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "A_planter_A_planter32"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "tricorn_A186"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "tricorn_A103"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "A_planter_A_planter20"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "starbucks_furniture_A_Chair2"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "starbucks_furniture_A_Chair_141"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "starbucks_furniture_A_table2"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "109_Sota_L_10"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "standsign_1_1"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "standsign_1_3"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "starbucks_starbucks3",
+        "017_Kana_L3_23"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    }
+  ]
+}

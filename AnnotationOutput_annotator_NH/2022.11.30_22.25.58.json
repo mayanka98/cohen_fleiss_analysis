@@ -1,0 +1,389 @@
+﻿{
+  "ExcludeList": [
+    "leather_bag_ken2_19"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "building_021a9"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "089_Ren_L19_90"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "building_005a17"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "031_Toru_L15_93"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_2_01_B_17",
+        "A_building_7_12"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "building_005a17"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "building_021a22"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a9",
+        "Building_2_01_B_17"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a9",
+        "building_021a22"
+      ],
+      "Anotations": [
+        "Across",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "building_021a22"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "A_building_7_12"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "Building_2_01_B_17"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a22",
+        "building_005a17"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a22",
+        "A_building_7_12"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a22",
+        "building_021a9"
+      ],
+      "Anotations": [
+        "Across"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a22",
+        "031_Toru_L15_93"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a22",
+        "089_Ren_L19_90"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L19_90",
+        "031_Toru_L15_93"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "031_Toru_L15_93",
+        "089_Ren_L19_90"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "043_Ken_L13_96"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "Building_2_01_B_17"
+      ],
+      "Anotations": [
+        "Across",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "031_Toru_L15_93"
+      ],
+      "Anotations": [
+        "Along",
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_12",
+        "089_Ren_L19_90"
+      ],
+      "Anotations": [
+        "Across",
+        "Front (Object based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "031_Toru_L15_93"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "043_Ken_L13_96"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "A_building_7_4"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "089_Ren_L19_90"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_005a17",
+        "075_Yui_L16_99"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a22",
+        "043_Ken_L13_96"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_021a22",
+        "075_Yui_L16_99"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_4",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_4",
+        "A_building_7_12"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_4",
+        "building_005a17"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_4",
+        "031_Toru_L15_93"
+      ],
+      "Anotations": [
+        "Behind (Object based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_4",
+        "043_Ken_L13_96"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_4",
+        "089_Ren_L19_90"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "A_building_7_4"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "building_034a2__1_3",
+        "A_building_7_12"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    }
+  ]
+}

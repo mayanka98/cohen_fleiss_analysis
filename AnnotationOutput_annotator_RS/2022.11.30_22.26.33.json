@@ -1,0 +1,223 @@
+﻿{
+  "ExcludeList": [
+    "A_gate_A_gate_light1_29",
+    "01_AppleSTORE__Arc_20",
+    "utilitypole_B_1",
+    "A_planter_A_planter51_12"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_1",
+        "tricorn_A131"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "pole_2_6"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "A_gate_A_gate_signboard1_33"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "089_Ren_L3_13"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "SM_FLTree_Hero_1_dodai23"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "001_Rika_L_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "roadsign_B2"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "roadsign_A_22"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "043_Ken_L3_16"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "001_Rika_L_2",
+        "roadsign_B2"
+      ],
+      "Anotations": [
+        "Behind (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "001_Rika_L_2",
+        "roadsign_A_22"
+      ],
+      "Anotations": [
+        "Behind (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "001_Rika_L_2",
+        "043_Ken_L3_16"
+      ],
+      "Anotations": [
+        "Left (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "001_Rika_L_2",
+        "089_Ren_L3_13"
+      ],
+      "Anotations": [
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "001_Rika_L_2",
+        "A_gate_A_gate_signboard2"
+      ],
+      "Anotations": [
+        "Above",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L3_13",
+        "pole_2_6"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L3_13",
+        "A_gate_A_gate_light2"
+      ],
+      "Anotations": [
+        "Above"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L3_13",
+        "001_Rika_L_2"
+      ],
+      "Anotations": [
+        "Left (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L3_13",
+        "tricorn_A131"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "089_Ren_L3_13",
+        "A_gate_A_gate_signboard1_33"
+      ],
+      "Anotations": [
+        "Above",
+        "Behind (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_L3_16",
+        "001_Rika_L_2"
+      ],
+      "Anotations": [
+        "Behind (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_L3_16",
+        "roadsign_B2"
+      ],
+      "Anotations": [
+        "Left (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_L3_16",
+        "roadsign_A_22"
+      ],
+      "Anotations": [
+        "Left (Object based)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+﻿{
+  "ExcludeList": [
+    "A_building_4",
+    "tricorn_A175",
+    "yellow_black_rod_40"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "building_002a2",
+        "Building_6_02_C6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "A_building_22"
+      ],
+      "Anotations": [
+        "Across",
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "001_Rika_L9_35"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Outside",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Across",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "tricorn_A64"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "tricorn_A172"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "tricorn_A173"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "tricorn_A174"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_002a2",
+        "089_Ren_L12_39"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C2",
+        "A_building_22"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "Building_6_02_C6"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "utilitypole_B_10"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "tricorn_A168"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "tricorn_A169"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "tricorn_A170"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_19",
+        "tricorn_A171"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "001_Rika_L9_35"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "building_002a2"
+      ],
+      "Anotations": [
+        "Across",
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "Building_6_02_C6"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_22",
+        "Building_6_02_C2"
+      ],
+      "Anotations": [
+        "Across",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "A_building_7_19"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "tricorn_A171"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "tricorn_A170"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "tricorn_A169"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "tricorn_A64"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "089_Ren_L12_39"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "building_034a2__1_3"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "tricorn_A172"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "tricorn_A173"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_B_10",
+        "tricorn_A174"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    }
+  ]
+}

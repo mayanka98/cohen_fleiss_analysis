@@ -1,0 +1,640 @@
+﻿{
+  "ExcludeList": [
+    "casual_bag_ren_Bag_ren_2",
+    "A_gate_A_gate_light1_29",
+    "A_gate_A_gate_signboard1_33",
+    "A_gate_A_gate_light2",
+    "01_AppleSTORE__GlassProp_50",
+    "roadsign_A_22",
+    "roadsign_B2",
+    "tricorn_A_44",
+    "tricorn_A134",
+    "SM_FLTree_Hero_1_dodai24"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "043_Ken_L5_61"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "099_Aya_L2_21"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "063_Syun_L2_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "PhysXCar"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "utilitypole_A_1"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "01_AppleSTORE__Tree_33"
+      ],
+      "Anotations": [
+        "Along",
+        "Below",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "utilitypole_B_1"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "A_gate_A_gate_pillar_31"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "031_Toru_L3_58"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "089_Ren_L2_17"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "017_Kana_L_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "tricorn_A133"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "tricorn_A132"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "tricorn_A2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "roadsign_B_24"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "yellow_black_rod_12"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "tricorn_A23"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "001_Rika_L_2"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Arc_20",
+        "089_Ren_L3_13"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_L5_61",
+        "099_Aya_L2_21"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_L5_61",
+        "PhysXCar"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "099_Aya_L2_21",
+        "utilitypole_A_1"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "099_Aya_L2_21",
+        "043_Ken_L5_61"
+      ],
+      "Anotations": [
+        "Behind (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "099_Aya_L2_21",
+        "PhysXCar"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "099_Aya_L2_21",
+        "063_Syun_L2_10"
+      ],
+      "Anotations": [
+        "Right (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "063_Syun_L2_10"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "tricorn_A23"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "PhysXCar"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "tricorn_A133"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "yellow_black_rod_12"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "tricorn_A132"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "tricorn_A2"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "017_Kana_L_2"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "utilitypole_B_1"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "utilitypole_A_1"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "01_AppleSTORE__Tree_33"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "099_Aya_L2_21"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "043_Ken_L5_61"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "A_gate_A_gate_pillar_31"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "089_Ren_L3_13"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "001_Rika_L_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "089_Ren_L2_17"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_1",
+        "031_Toru_L3_58"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "PhysXCar"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "01_AppleSTORE__Tree_33"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "099_Aya_L2_21"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "043_Ken_L5_61"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "utilitypole_B_1"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "031_Toru_L3_58"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "063_Syun_L2_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "089_Ren_L2_17"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "001_Rika_L_2"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "017_Kana_L_2"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "tricorn_A133"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "tricorn_A132"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "tricorn_A23"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "utilitypole_A_1",
+        "yellow_black_rod_12"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Tree_33",
+        "01_AppleSTORE__Arc_20"
+      ],
+      "Anotations": [
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Tree_33",
+        "utilitypole_A_1"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Tree_33",
+        "043_Ken_L5_61"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Tree_33",
+        "099_Aya_L2_21"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Tree_33",
+        "A_building_1"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Tree_33",
+        "utilitypole_B_1"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "01_AppleSTORE__Tree_33",
+        "PhysXCar"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    }
+  ]
+}

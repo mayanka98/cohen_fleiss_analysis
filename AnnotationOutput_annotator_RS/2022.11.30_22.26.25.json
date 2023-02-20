@@ -1,0 +1,231 @@
+﻿{
+  "ExcludeList": [
+    "c2_c2_ground_154",
+    "Building_6_02_C5",
+    "A_6_ground_2",
+    "car_11",
+    "Mamachari_62",
+    "Mamachari_63",
+    "Mamachari_65",
+    "Mamachari_66",
+    "Mamachari_67",
+    "Mamachari_70",
+    "Mamachari_71",
+    "Mamachari_72",
+    "Mamachari_75",
+    "Road_bike_2",
+    "Road_bike2"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "Building_6_02_C7",
+        "001_Rika_L12_35"
+      ],
+      "Anotations": [
+        "Along",
+        "Below",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C7",
+        "A_planter_A_planter72"
+      ],
+      "Anotations": [
+        "Along",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C7",
+        "A_building_12_"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C7",
+        "SM_FLTree_Hero_1_dodai28"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C7",
+        "SK_Hatchback9_12"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "Building_6_02_C7",
+        "Mamachari_64"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "SK_Hatchback9_12"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "building_B_8_4"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "A_building_12_"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "Mamachari_64"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_8_4",
+        "A_building_7_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_8_4",
+        "c2_c2_150"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_8_4",
+        "A_building_12_"
+      ],
+      "Anotations": [
+        "Near",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "building_B_8_4",
+        "SK_Hatchback9_12"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "Building_6_02_C7"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "c2_c2_150"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "building_B_8_4"
+      ],
+      "Anotations": [
+        "Left (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "A_building_7_10"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "SM_FLTree_Hero_1_dodai28"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "001_Rika_L12_35"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_12_",
+        "SK_Hatchback9_12"
+      ],
+      "Anotations": [
+        "Across",
+        "Left (Camera based)"
+      ]
+    }
+  ]
+}

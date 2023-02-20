@@ -1,0 +1,349 @@
+﻿{
+  "ExcludeList": [
+    "casual_bag_toru_Bag4_35",
+    "Building_3_02_A_21",
+    "Building_1_02_A3",
+    "Building_1_02_A4",
+    "A_6_ground_2",
+    "A_6_ground2_5",
+    "A_building_17",
+    "A_building_19"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_7_10",
+        "A_building_18"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "SM_FLTree_Hero_1_dodai27"
+      ],
+      "Anotations": [
+        "Along",
+        "Near",
+        "Next to"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "001_Rika_L15_87"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "Mamachari_80"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "A_building_20"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "SM_FLTree_Hero_1_dodai26"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "car_4"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "SM_FLTree_Hero_1_dodai59"
+      ],
+      "Anotations": [
+        "Front (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "043_Ken_L12_84"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "building_B_R_11_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_7_10",
+        "building_B_11_3"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "SM_FLTree_Hero_1_dodai27",
+        "Mamachari_80"
+      ],
+      "Anotations": [
+        "Below",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "A_building_7_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "SM_FLTree_Hero_1_dodai27"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "A_building_20"
+      ],
+      "Anotations": [
+        "Front (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "SM_FLTree_Hero_1_dodai26"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "car_4"
+      ],
+      "Anotations": [
+        "Front (Object based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "SM_FLTree_Hero_1_dodai59"
+      ],
+      "Anotations": [
+        "Front (Object based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "building_B_11_3"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "building_B_R_11_2"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "A_building_16"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "043_Ken_L12_84"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_18",
+        "Mamachari_80"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "Mamachari_80",
+        "SM_FLTree_Hero_1_dodai27"
+      ],
+      "Anotations": [
+        "Above",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "A_building_18"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "SM_FLTree_Hero_1_dodai59"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "SM_FLTree_Hero_1_dodai26"
+      ],
+      "Anotations": [
+        "Behind (Camera based)",
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "075_Yui_L14_77"
+      ],
+      "Anotations": [
+        "Near"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "A_building_16"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "building_B_11_3"
+      ],
+      "Anotations": [
+        "Across",
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "SM_FLTree_Hero_1_dodai27"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "car_4"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "A_building_7_10"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_20",
+        "building_B_R_11_2"
+      ],
+      "Anotations": [
+        "Right (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "043_Ken_L12_84",
+        "casual_bag_ken_Bag3_32"
+      ],
+      "Anotations": [
+        "Above"
+      ]
+    }
+  ]
+}
