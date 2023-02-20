@@ -1,5 +1,7 @@
 # test_fleiss
 
+Formula: https://en.wikipedia.org/wiki/Fleiss'_kappa
+
 ## Fleiss Kappa for 1 file:
 ![1_file](https://user-images.githubusercontent.com/116613755/220214231-7deb52e9-df12-432b-8d12-32ce1f10c844.png)
 
