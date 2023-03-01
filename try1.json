@@ -1,0 +1,27 @@
+﻿{
+  "ExcludeList": [
+    "pole_1_9",
+    "pole_1_12",
+    "Mamachari_186"
+  ],
+  "AnotationResults": [
+    {
+      "Selections": [
+        "A_building_13",
+        "001_Rika_L14_47"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    },
+    {
+      "Selections": [
+        "A_building_13",
+        "building_B_17_1"
+      ],
+      "Anotations": [
+        "Behind (Camera based)"
+      ]
+    }
+  ]
+}
